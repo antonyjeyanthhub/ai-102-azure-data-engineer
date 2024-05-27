@@ -1,11 +1,72 @@
 # Select the appropriate Azure AI Service
 
-## Add Content
+## Services
+
+### AI Vision Services
+* Face API
+* Azure AI Vision
+* Custom Vision
+* Document Intelligence
+* Azure AI Video Indexer
+
+### NLP Services
+* Customer text classification
+* Lang Detection
+* Q Answering
+* Named Entity Recognition
+* Customer Named Entity Recognition
+* Senti Analysis
+* Summarization
+* Key Phrase Detection
+* PII Detection
+* Conversational Lang Understanding
+
+### Speech Solution/Services
+* Speech to text
+* Text to Speech
+* Speech Recognition
+* Translation
+* Intent recognition
+* Lang identification
+
+### Document Intelli Solution
+* Analysis Model
+* Custom Model
+* Pre-built model
+
+### Knowledge Mining Solution
+  * Bing
+  * Search
+  * Database
 
 # Plan, create, and deploy an AI Service
 
-## Add Content
+## Choose AI resoure Type
+* Single-Service
+* Multi-Service
+
+## Deploy
+* Kubernetes Services
+  - if application has most moving parts, scripted deployment 
+* Container Instances
+  - On demand, minimal setup, serverless
+
+## Logging
+* Log Analytics Workspace
+* Event Hubs
+* Azure Storage
 
 # Manage, monitor, and secure an Azure AI Service
 
-## Add Content
+## Manage Keys/Secrets
+* Azure Key Vault
+
+## Manage Costs
+* Pricing Calculator
+* Cost Management
+
+## Monitor
+* Metrics
+* Alerts
+* Activity logs
+
