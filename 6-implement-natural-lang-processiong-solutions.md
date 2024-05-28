@@ -27,6 +27,10 @@
 ** Important - For exam, key to differentiate intents and entities
 * Use pattern matching
 * Use CLU (Custom Natural Lang Understanding)
+* Differences
+    - Intents = **Goal**
+    - Entities = A word or phrase inside utterances to **extract**
+    - Utterances = **a word or statement**
 
 ## Implement Keyword Recognition
 
@@ -41,6 +45,18 @@
 
 ## Speech to speech
 * Azure AI Speech Service
+* Tools
+   - Translator API
+   - Speech SDK
+   - Speech CLI
+   - Speech Studio
 
 # Implement/Manage Lang Understanding Model using AI Lang
+* CLU can be used to Train, evaluate, deploy and test a custom NLP understanding model
+* Optimize the model
+  
 # Q-Answering Solution using AI Lang
+* Create a multi-turn conversation - can be used to connect q & a pairs
+* Create alternate phrasing (different forms of same qns)
+* Add chit-chat to knowledge base
+* Can also create multi language q & a solution
