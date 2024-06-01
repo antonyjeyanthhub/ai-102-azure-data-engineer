@@ -15,6 +15,10 @@
 * < than 10000 X 10000 px for OCR
 * JPG PNG BMP GIF
 
+#### Video Limitations
+* MP4 FLV MKV format
+* Video codec H.264
+
 ### NLP Services
 * Customer text classification
 * Lang Detection
