@@ -53,7 +53,8 @@
 
 ## Choose AI resoure Type
 * Single-Service
-* Multi-Service
+     - Individual Services like Comp Vision, Speech, Translator, Doc Intelligence etc
+* Multi-Service - Azure AI Services
 
 ## Deploy
 * Kubernetes Services
