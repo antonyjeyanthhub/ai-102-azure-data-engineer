@@ -9,7 +9,11 @@
    - Image Analysis
 * Azure AI Video Indexer
 
-** Image & Video Limitations 
+#### Image Limitations
+* Less than 4 MB
+* > than 50 X 50 px
+* < than 10000 X 10000 px for OCR
+* JPG PNG BMP GIF
 
 ### NLP Services
 * Customer text classification
