@@ -3,11 +3,13 @@
 ## Services
 
 ### AI Vision Services
+* OCR
 * Face API
 * Azure AI Vision
-* Custom Vision
-* Document Intelligence
+   - Image Analysis
 * Azure AI Video Indexer
+
+** Image & Video Limitations 
 
 ### NLP Services
 * Customer text classification
